@@ -7,3 +7,4 @@
 [Bug-Reports](https://github.com/OlgaF0111/Bug-Reports)    
 [Checklist](https://github.com/OlgaF0111/Checklist)  
 [Test case](https://github.com/OlgaF0111/Test-case)  
+[Test-design](https://github.com/OlgaF0111/Test-design)  
