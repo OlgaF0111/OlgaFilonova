@@ -1,5 +1,5 @@
 Привет!  
-Я Ольга Филонова, начинающий QA Manual (web).
+Я Ольга Филонова, начинающий QA ENGINEER MANUAL (WEB).
 
 ## Что я умею:
 [SQL](https://github.com/OlgaF0111/SQL)  
